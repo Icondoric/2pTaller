@@ -1,0 +1,14 @@
+.nick-container {
+    width: 166px;
+    height: 30px; 
+    left: 1%; 
+  }
+  .nick-white {
+    color: white;
+
+  }
+  .nick-gray {
+    color: rgba(195, 195, 195, 0.957);
+
+  }
+  

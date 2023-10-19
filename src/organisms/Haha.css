@@ -1,0 +1,11 @@
+.haha-container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 484px;
+    height: 321px;
+    background: linear-gradient(to bottom, #000080, #5b4da7); /* Fondo degradao */
+    border-radius: 20px;
+    padding: 1px;
+  }
+  

@@ -1,12 +1,12 @@
 import React from 'react';
-import Card from './codigo/Card'; // Importa el componente Iphone
-import './App.css'
+import Haha from './organisms/Haha';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <Card/>{}
+    <div className="app">
+      <Haha />
     </div>
-  )
-}
-export default App
+  );
+};
+
+export default App;
